@@ -1,0 +1,12 @@
+Include PS commands as well to test and deploy the resources
+
+Ideas
+1. Full flegded AD infrastructure
+    a. Users
+    b. Groups
+    c. AAD Connect and other Custom Softwares
+
+2. Virtual machines with basic settings like pip, no guest extensions, pre-installed roles like IIS using cloudinit
+	2.1 Different template, call Key vault for admin password (Use Azure Expert Exam notes)
+	
+3. Storage account with defaut settings like Gpv2, GRS
